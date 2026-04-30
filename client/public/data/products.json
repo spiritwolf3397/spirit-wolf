@@ -2,8 +2,8 @@
   "products": [
     {"id":1,"name":"Moonbound Howl","description":"A wolf beneath a fractured moon, channeling instinct, ancestry, and the pull of the unseen.","price":2000,"imageUrl":"/images/wolves1.png","isSold":false,"category":"design","artist":"WolfMan"},
     {"id":2,"name":"Silent Watcher","description":"A lone wolf rendered in stark contrast, symbolizing vigilance, intelligence, and quiet authority.","price":2000,"imageUrl":"/images/wolves2.png","isSold":false,"category":"design","artist":"WolfMan"},
-    {"id":3,"name":"Roar of the Divide","description":"A symmetrical tiger visage split by chaos and color, representing duality and primal balance.","price":2000,"imageUrl":"/images/tiger1.png","isSold":false,"category":"design","artist":"WolfMan"},
-    {"id":4,"name":"Emberclaw","description":"A tiger emerging from raw texture and flame tones, embodying ferocity and untamed will.","price":2000,"imageUrl":"/images/tigers2.png","isSold":false,"category":"design","artist":"WolfMan"},
+    {"id":3,"name":"Wolf Photo 4","description":"Wolf photography — cinematic framing.","price":2000,"imageUrl":"/images/20260214_184721.png","isSold":false,"category":"design","artist":"WolfMan"},
+    {"id":4,"name":"Wolf Photo 5","description":"Wolf photography — raw wilderness portrait.","price":2000,"imageUrl":"/images/IMG_20260201_162427365_AE.jpg","isSold":false,"category":"design","artist":"WolfMan"},
     {"id":5,"name":"The Long Way Home","description":"A surreal landscape anchored by a solitary traveler, evoking reflection and inner return.","price":2000,"imageUrl":"/images/scene1.png","isSold":false,"category":"design","artist":"WolfMan"},
     {"id":6,"name":"Dreamcatcher","description":"Intricate dreamcatcher design with sacred geometry and web-like patterns.","price":2000,"imageUrl":"/images/dreamcatcher.png","isSold":false,"category":"design","artist":"WolfMan"},
     {"id":7,"name":"Flame","description":"Raw fire textures woven with primal energy and motion.","price":2000,"imageUrl":"/images/flame.png","isSold":false,"category":"design","artist":"WolfMan"},
@@ -35,9 +35,6 @@
     {"id":33,"name":"Wolf Abstract 3","description":"Abstract wolf composition — fluid motion.","price":2000,"imageUrl":"/images/1770073429860.png","isSold":false,"category":"design","artist":"WolfMan"},
     {"id":34,"name":"Wolf Abstract 4","description":"Abstract wolf composition — layered chaos.","price":2000,"imageUrl":"/images/1770073544683.png","isSold":false,"category":"design","artist":"WolfMan"},
     {"id":35,"name":"Wolf Photo 1","description":"Wolf photography — natural light composition.","price":2000,"imageUrl":"/images/1771226840997 (1).jpeg","isSold":false,"category":"design","artist":"WolfMan"},
-    {"id":36,"name":"Wolf Photo 2","description":"Wolf photography — striking moment captured.","price":2000,"imageUrl":"/images/20260214_183046.png","isSold":false,"category":"design","artist":"WolfMan"},
-    {"id":37,"name":"Wolf Photo 3","description":"Wolf photography — atmospheric and moody.","price":2000,"imageUrl":"/images/20260214_183848.png","isSold":false,"category":"design","artist":"WolfMan"},
-    {"id":38,"name":"Wolf Photo 4","description":"Wolf photography — cinematic framing.","price":2000,"imageUrl":"/images/20260214_184721.png","isSold":false,"category":"design","artist":"WolfMan"},
-    {"id":39,"name":"Wolf Photo 5","description":"Wolf photography — raw wilderness portrait.","price":2000,"imageUrl":"/images/IMG_20260201_162427365_AE.jpg","isSold":false,"category":"design","artist":"WolfMan"}
+    {"id":36,"name":"Wolf Photo 3","description":"Wolf photography — atmospheric and moody.","price":2000,"imageUrl":"/images/20260214_183848.png","isSold":false,"category":"design","artist":"WolfMan"}
   ]
 }
